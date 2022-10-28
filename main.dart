@@ -35,4 +35,13 @@ void main() {
   //UserFull
   var user = name2 ?? 'Guest';
   print(user);
+
+// take as useually
+  var mstr = '''
+this
+is
+multiline
+string
+  ''';
+  print(mstr);
 }
